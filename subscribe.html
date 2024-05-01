@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- meta information, describe the page for search engines -->
+    <meta name="description" content="Fresh Patch. For beginner gardner tips and tricks through every season.">
+    <meta name="keywords" content="gardening, vegetables, growing your own food, seasonal vegetables, food">
+    <!-- Fav Icon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <!-- Styles -->
+    <link rel="stylesheet" href="assets/style.css">
+    <!-- Title -->
+    <title>Fresh Patch</title>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <a href="index.html" aria-label="Go to our homepage. Page opens in the same window.">
+            <h1 id="logo">Fresh Patch 
+                <i class="fa-solid fa-carrot" id="logo-icon" aria-hidden="true"></i>
+            </h1>
+        </a>
+        <!-- Nav toggle button placeholder -->
+        <input type="checkbox" id="menu-toggle" name="menu-toggle">
+        <label for="menu-toggle" class="menu-toggle-label">
+            <i class="fa-solid fa-bars"></i>
+        </label>
+        <!-- Nav bar -->
+        <nav>
+            <ul id="menu">
+                <li>
+                    <a href="index.html" aria-label="Go to our homepage. Page opens in the same window.">Home</a>
+                </li>
+                <li>
+                    <a href="seasonal-suggestions.html" aria-label="Go to Seasonal Suggestions page for tips about what to plan in different seasonal weather. (Page opens in the same window.)">Seasonal Suggestions</a>
+                </li>
+                <li>
+                    <a href="subscribe.html" class="active" aria-label="Go to Subscribe page to register for our newsletter. (Page opens in the same window.)">Join</a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <!-- Main content -->
+    <main>
+        <section id="newsletter">
+            <form id="newsletter-signup" action="response.html">
+                <div class="form-header">
+                    <h2 id="form-heading">Subscribe to our Fresh Patch newsletter for more tips and tricks!</h2>
+                </div>
+                <div class="form-container">
+                        <div class="radio-buttons">
+                            <div>
+                                <label for="beginner">Beginner</label>
+                                <input type="radio" id="beginner" value="beginner" name="experience_level" required checked>
+                            </div>
+                            <div>
+                                <label for="intermediate">Intermediate</label>
+                                <input type="radio" id="intermediate" value="intermediate" name="experience_level" required>
+                            </div>
+                            <div>
+                                <label for="experienced">Experienced</label>
+                                <input type="radio" id="experienced" value="experienced" name="experience_level" required>
+                            </div>
+                        </div>
+                        <div class="form-entries">
+                            <div>
+                            <label for="first-name">First Name</label>
+                            <input type="text" id="first-name" name="first_name" class="text-input" required>
+                            </div>
+                            <div>
+                            <label for="last-name">Last Name</label>
+                            <input type="text" id="last-name" name="last_name" class="text-input" required>
+                            </div>
+                            <div>
+                            <label for="email-address">Email Address</label>
+                            <input type="email" id="email-address" name="email_address" class="text-input" required>
+                            </div>
+                        </div>
+                </div>
+                <div id="form-button">
+                <button type="submit" id="subscribe-button" aria-label="Click to submit your details and subscribe to our newsletter.">Subscribe!</button>
+                </div>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <div>
+            <ul id="social-networks">
+                <li>
+                    <a href="index.html" class="active" aria-label="Go to our homepage. Page opens in the same window.">Home</a>
+                </li>
+                <li>
+                    <a href="seasonal-suggestions.html" aria-label="Go to Seasonal Suggestions page for tips about what to plan in different seasonal weather. (Page opens in the same window.)">Seasonal Suggestions</a>
+                </li>
+                <li>
+                    <a href="subscribe.html" aria-label="Go to Subscribe page to register for our newsletter. (Page opens in the same window.)">Join</a>
+                </li>
+            </ul>
+        </div>
+    </footer>
+    <!-- Font Awesome kit -->
+    <script src="https://kit.fontawesome.com/7668570a09.js" crossorigin="anonymous"></script>
+</body>
+</html>
