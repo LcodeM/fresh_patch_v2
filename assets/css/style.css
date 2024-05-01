@@ -1,0 +1,459 @@
+/* Font ID import from Google Fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+/* Wildcard to override browser defaults? */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* Styling for flex */
+section {
+    border-style: solid;
+    margin: 2rem 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 16px;
+    justify-content: center;
+    background-color: #E3E3E3;
+    box-shadow: rgb(00, 00, 00) 0px 20px 30px -10px;
+    border-radius: 5px;
+}
+
+/* Generic body styles */
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background-color: #34482A;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1, h2 ,h3, h4 {
+    font-family: 'Ubuntu', sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+}
+
+h1 {
+    color: #34482A;
+}
+
+li {
+    line-height: 2rem;
+}
+
+/* Header */
+
+header {
+    background-color: #E3E3E3;
+    padding: 0 1rem;
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    box-shadow: rgb(00, 00, 00) 0px 10px 15px -5px;
+}
+
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#logo {
+    color: #34482A;
+    text-align: left;
+}
+
+#logo-icon{
+    color: #34482A;
+}
+
+#menu {
+    color: #34482A;
+    font-size: 110%;
+    letter-spacing: 2px;
+    list-style-type: none;
+}
+
+/* Menu styles with menu-toggle */
+
+nav {
+    position: absolute;
+    background-color: #e3e3e3;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #34482A;
+    display: none;
+    top: 100%;
+}
+
+#menu-toggle:checked~nav {
+    display: block;
+}
+
+#menu-toggle {
+    display: none;
+}
+
+.menu-toggle-label {
+    font-size: 2rem;
+}
+
+.active {
+    border-bottom: 1px solid #34482A;
+}
+
+/* Main */
+main {
+    margin-top: 75px;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+}
+
+main > p {
+    text-align: center;
+}
+
+button {
+    text-decoration: none !important;
+    background-color: #835937;
+    color: #E3E3E3;
+    text-transform: uppercase;
+    padding: 2px;
+    border-radius: 4px;
+}
+
+button a {
+    text-decoration: none;
+    color: #E3E3E3;
+}
+
+.introduction {
+    color: #E3E3E3;
+    text-align: center;
+}
+
+/* MARK: circle image */ 
+.circle-image {
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.image-container {
+    margin-bottom: 1em;
+}
+
+.content-container {
+    width: 90%;
+    padding: 1em;
+}
+
+#video-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /*aspect ratio of 16:9 for YT videos (9 / 16 = 0.5625 * 100)*/
+}
+
+#frost-video {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.subscribe {
+    padding: 16px;
+}
+
+.subscribe-page-button {
+    margin-top: 1em;
+}
+
+#top-button {
+    position: fixed;
+    bottom: 75px;
+    right: 10px;
+    z-index: 99;
+    font-size: 1rem;
+    border: none;
+    outline: none;
+    background-color: rgb(131,	89,	55, 0.6);
+    color: #E3E3E3;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+#top-button a {
+    text-decoration: none;
+}
+
+#top-button:hover {
+    background-color: #835937;
+}
+
+/* Index */
+
+#main-carrot {
+    display: flex;
+    font-size: 150%;
+    justify-content: center;
+}
+
+.introduction {
+    margin: 0 1rem;
+}
+
+/* Seasonal Suggestions page */
+
+.seasons li {
+    margin-left: 2rem;
+}
+
+/* Subscribe page */
+
+#newsletter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#newsletter div {
+    margin: 1rem 0;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    padding: 1em;
+    flex-direction: column;
+    width: 100%;
+}
+
+#form-button {
+    display: flex;
+    justify-content: center;
+}
+
+.radio-buttons input {
+    float: inline-start;
+    margin-right: 2rem;
+}
+
+/* Response page */
+
+#response {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
+}
+
+#response div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+#response p {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#repsonse-button {
+    padding: 1rem;
+    justify-content: center;
+    align-self: center;
+}
+
+
+/* Footer */
+
+footer {
+    margin-top: auto;
+    background-color: #E3E3E3;
+}
+
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#social-networks i {
+    color: #835937;
+}
+
+/* Media Queries */
+
+/* Media query: smartphones 375px & larger (375px +) */
+
+@media screen and (min-width: 375px) {
+
+    .form-entries input {
+        margin-left: 1rem;
+        float: right;
+    }
+}
+
+/* Media query: tablets and larger (768px +)  */
+
+@media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .menu-toggle-label {
+        display: none;
+    }
+
+    .circle-image {
+        width:  200px;
+        height: 200px;
+    }
+
+    section {
+        flex-direction: row;
+        padding: 16px;
+    }
+
+    button:hover {
+        background-color: #E3E3E3;
+        color: #835937;
+    }
+
+    button a:hover {
+        color: #835937;
+    }
+
+    /* Index page */ 
+
+    .introduction {
+        margin: 0 1rem;
+    }
+
+    #benefits .content-container {
+        padding-left: 1rem;
+    }
+
+    #benefits div {
+        margin-right: 2rem;
+    }
+
+    #beginner-tips {
+        flex-direction: row;
+        padding: 0 1rem;
+    }
+
+    #beginner-tips .image-container {
+        order: 2;
+        margin-left: 2rem;
+    }
+
+    #beginner-tips .content-container {
+        padding-left: 2rem;
+    }
+
+    /* Seasonal Suggestions page */
+
+    .seasons .image-container {
+        margin: 2rem;
+    }
+
+    #spring .image-container {
+        order: 2;
+    }
+
+    #autumn .image-container {
+        order: 2;
+    }
+
+    #todays-tip {
+        flex-direction: column;
+    }
+
+    .subscribe {
+        flex-direction: column;
+        padding: 1rem;
+    }
+    
+    /* Subscribe page */
+
+    #newsletter {
+        margin-top: 3rem;
+    }
+
+    .form-container {
+        display: flex;
+        justify-content: space-evenly;
+        padding: 1em;
+        flex-direction: row;
+    }
+}
+
+/* Media query: small laptops and larger (992px +) Hover effect */
+
+@media screen and (min-width: 992px) {
+    /* Header */
+    #menu a:hover {
+        border-bottom: 1px solid #34482A;
+    }
+
+    /* Main */
+    body {
+        display: flex;
+    }
+
+    main {
+        margin: 4rem;
+    }
+
+    .introduction {
+        margin: 0 3rem;
+    }
+
+    .circle-image {
+        width:  200px;
+        height: 200px;
+    }
+
+    section {
+        margin: 5rem 3rem;
+    }
+}
+ 
