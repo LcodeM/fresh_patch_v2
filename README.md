@@ -104,6 +104,27 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
 
 ### Deploying to Github Pages
 
+Fresh Patch was developed in VS Code and deployed to GitHub pages.
+
+The steps to deploy are:
+
+- Navigate to the GitHub repository, or click <a href="https://github.com/LcodeM/fresh_patch_v2">here</a>.
+- Go to 'Settings' tab and then to Pages in the left hand side.
+- From the Source section, select Branch 'main' from the dropdown menu, and make sure '/(root)' is selected next to it. Then click 'Save'.
+- Once complete, you will see a message at the top of the page, and a link to the deployed site will be published (this may take a moment).
+
+You can find the link to the live version <a href="https://lcodem.github.io/fresh_patch_v2/">here</a>
+
+The site was developed in GitPod and deployed to GitHub pages. The steps to deploy are as follows:
+
+Navigate to the Github repository. For this project, this is rocrill/Crilly-s-B-B.
+Navigate to the Settings tab, then to Pages.
+From the Source secton drop-down menu, select the Master Branch ( or Branch: Master and Root folder). Save.
+Once the master branch has been selected, you will see the message: 'Your site is published' and a link to the deployed site will be provided.
+The live link can be found here - https://rocrill.github.io/Crilly-s-B-B/
+
+
+
 ## Testing
 
 ## Credits
