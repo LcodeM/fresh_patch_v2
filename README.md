@@ -53,7 +53,22 @@ To create an attractive, minimalist and responsive website that provides beginne
 
 ### Site Structure
 
-Fresh Patch has 4 pages in total, 3 that are navigatable by the user through buttons or page links.
+Fresh Patch has 4 pages in total, 3 that are navigatable by the user through buttons or page links, and 1 via the correct submission of a form.
+
+- 'Home' page: 
+    The homepage is the main landing page for the website, where users will find a straight-to-the-point heading and brief introduction to the site, that aims to provide instant clarity and understanding of the content and what to expect.
+
+    The opening content sections include imagery relevant to gardening, as well as bitesize informative text that will be immediately helpful. The final sections of the page include a 'Today's Top Tip section (updated dialy to provide new tips to all users) along with a video related to the topic, and a button link to the newsletter subscription form to entice users to sign up.
+
+    All pages have a 'back to top' button to improve UX.
+
+- 'Seasonal Suggestions' page:
+    The second page, navigatable by the navigation bar (or burger menu on mobile), hosts information for users looking for tips on what to grow during different seasons. This information aims to provide users with useable content and knowledge, no matter when they are accessing the site, in order to give them hands on ideas whenever they want them.
+
+    Mirroring the home page, users can find the 'Today's Top Tip' and subscribe button sections at the bottom of the page.
+
+- 'Subscribe' page:
+    As the name suggests, the subscribe page is an easy-to-complete form style submission section for users who are interested in staying up to date with more content and tips from the 'Fresh Patch' community. 
 
 ### Wireframes
 
