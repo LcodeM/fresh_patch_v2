@@ -296,7 +296,7 @@ footer {
 
 #social-networks {
     text-align: center;
-    padding: 20px 0;
+    padding: 10px 0 0 0;
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
@@ -304,6 +304,12 @@ footer {
 
 #social-networks i {
     color: #835937;
+}
+
+footer h5 {
+    text-align: center;
+    color: #835937;
+    padding-top: none;
 }
 
 /* Media Queries */
