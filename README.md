@@ -94,7 +94,11 @@ Disclaimer: Please be aware that all links open in the same window, make sure to
 
 ![Colour scheme](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Fresh%20Patch%20colour%20palette.png)
 
-The colours for this project were generated using coolors.
+The colours for this project were generated using coolors, inspired by the London Image Institute (see Credits and Technologies sections of this file).
+
+According to the London Image Institute, the colour green symbolises growth, fertility, survival and health - fitting to the subject of gardening as these are all things directly related to plants. The colour brown similarly is associated with resilience and the earth. Both of these colours also have a visual association with grass, soil and vegetables generally, making them a sure fit for this project. 
+
+In order to ensure there was enough contrast to the website, green was used as the primary background, h1, logo and navbar menu items, with the 'platinum' white as background to the navbar and as a background colour to all elements displayed on top of the main background. Brown was used as an accent colour on buttons and on the footer for social links and content, to ensure that there was not too much variation throughout the page.
 
 #### Typogrophy / Fonts
 
