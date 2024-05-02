@@ -1,5 +1,7 @@
 # Fresh Patch
 
+![Logo](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Fresh%20Patch%20logo.png)
+
 ## Introduction
 
 Fresh Patch is a website about growing your own food, and fundamentally aimed at supporting beginner gardeners on their first journey into growing vegetables, as well as providing daily top tips for gardeners of all levels. The website also aims to provide useful information for a year-round plan on how to plan, prepare and maintain a gardening space, as well as some insight into the different types of produce that can be grown at different times of year and seasons.
@@ -78,11 +80,11 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
 Disclaimer: Please be aware that all links open in the same window, make sure to manually open in a new tab.
 
 - [All devices and pages](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Wireframes%20by%20size.pdf)
-- Home page
-- Seasonal Suggestions
-- Subscribe
-- Reasons
-- Mobile Menu dropdown
+- [Home page](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Home%20page.pdf)
+- [Seasonal Suggestions](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Seasonal%20Suggestions.pdf)
+- [Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Subscribe.pdf)
+- [Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Response.pdf)
+- [Mobile Menu dropdown](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Mobile%20dropdown%20menu.pdf)
 
 ### Design
 
