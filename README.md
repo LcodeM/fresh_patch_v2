@@ -72,10 +72,10 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
     Mirroring the home page, users can find the 'Today's Top Tip' and subscribe button sections at the bottom of the page.
 
 - 'Subscribe' page:
-    As the name suggests, the subscribe page is an easy-to-complete form style submission section for users who are interested in staying up to date with more content and tips from the 'Fresh Patch' community.
+    As the name suggests, the subscribe page is an easy-to-complete form-style submission section for users who are interested in staying up to date with more content and tips from the 'Fresh Patch' community.
 
 - Response page: 
-    The response page is designed to only be accessible once the form submission is complete - meaning there is no navigation within the site to this page without completing the form successfully. However, those aware of it's existence can simply alter the url and add "reponse.html" to access it. 
+    The response page is designed to only be accessible once the form submission is complete - meaning there is no navigation within the site to this page without completing the form successfully. However, those aware of its existence can simply alter the URL and add "reponse.html" to access it. 
 
 ### Wireframes
 
@@ -98,9 +98,16 @@ The colours for this project were generated using coolors, inspired by the Londo
 
 According to the London Image Institute, the colour green symbolises growth, fertility, survival and health - fitting to the subject of gardening as these are all things directly related to plants. The colour brown similarly is associated with resilience and the earth. Both of these colours also have a visual association with grass, soil and vegetables generally, making them a sure fit for this project. 
 
-In order to ensure there was enough contrast to the website, green was used as the primary background, h1, logo and navbar menu items, with the 'platinum' white as background to the navbar and as a background colour to all elements displayed on top of the main background. Brown was used as an accent colour on buttons and on the footer for social links and content, to ensure that there was not too much variation throughout the page.
+To ensure there was enough contrast to the website, green (#34482A) was used as the primary background, h1, logo and navbar menu items, with the 'platinum' (#E3E3E3) white as background to the navbar and as a background colour to all elements displayed on top of the main background. Brown (#835937) was used as an accent colour on buttons and the footer for social links and content, to ensure that there was not too much variation throughout the page. 
+
+#46583D was added and reserved for any future usage where necessary to have a slightly lighter shade of green.
+
 
 #### Typogrophy / Fonts
+
+The font family 'Ubuntu' was downloaded and used from Google Fonts, as it provides an easy-on-the-eye font that also draws some attention to the logo with its irregular curvature. This font was used for all text across the website.
+
+![font family]()
 
 #### Imagery
 
