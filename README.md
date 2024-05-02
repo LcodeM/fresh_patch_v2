@@ -75,6 +75,13 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
 
 ### Wireframes
 
+- All devices and pages
+- Home page
+- Seasonal Suggestions
+- Subscribe
+- Reasons
+- Mobile Menu dropdown
+
 ### Design
 
 #### Colour Scheme
