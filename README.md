@@ -108,12 +108,12 @@ Fresh Patch was developed in VS Code and deployed to GitHub pages.
 
 The steps to deploy are:
 
-- Navigate to the GitHub repository, or click <a href="https://github.com/LcodeM/fresh_patch_v2">here</a>.
+- Navigate to the GitHub repository, or click [here](https://github.com/LcodeM/fresh_patch_v2).
 - Go to 'Settings' tab and then to Pages in the left hand side.
 - From the Source section, select Branch 'main' from the dropdown menu, and make sure '/(root)' is selected next to it. Then click 'Save'.
 - Once complete, you will see a message at the top of the page, and a link to the deployed site will be published (this may take a moment).
 
-You can find the link to the live version <a href="https://lcodem.github.io/fresh_patch_v2/">here</a>
+You can find the link to the live version [here](https://lcodem.github.io/fresh_patch_v2/).
 
 The site was developed in GitPod and deployed to GitHub pages. The steps to deploy are as follows:
 
