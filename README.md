@@ -75,6 +75,8 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
 
 ### Wireframes
 
+Disclaimer: Please be aware that all links open in the same window, make sure to manually open in a new tab.
+
 - [All devices and pages](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Wireframes%20by%20size.pdf)
 - Home page
 - Seasonal Suggestions
