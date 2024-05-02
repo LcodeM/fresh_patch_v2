@@ -6,10 +6,6 @@ Fresh Patch is a website about growing your own food, and fundamentally aimed at
 
 Users of this website will be able to gather the basic information needed to begin preparing, and growing your own vegatables.
 
-## Index
-
-- [User Experience]([link](doc:README.md#user-experience))
-
 ## User Experience
 
 ### Project Goal
