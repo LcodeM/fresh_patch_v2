@@ -4,9 +4,9 @@
 
 ## Introduction
 
-Fresh Patch is a website about growing your own food, and fundamentally aimed at supporting beginner gardeners on their first journey into growing vegetables, as well as providing daily top tips for gardeners of all levels. The website also aims to provide useful information for a year-round plan on how to plan, prepare and maintain a gardening space, as well as some insight into the different types of produce that can be grown at different times of year and seasons.
+Fresh Patch is a website about growing your own food and is aimed at supporting beginner gardeners on their first journey into growing vegetables, as well as providing daily top tips for gardeners of all levels. The website also aims to provide useful information for a year-round plan on how to plan, prepare and maintain a gardening space, as well as some insight into the different types of produce that can be grown at different times of year and seasons.
 
-Users of this website will be able to gather the basic information needed to begin preparing, and growing your own vegatables.
+Users of this website will be able to gather the basic information needed to begin preparing and growing their own vegetables.
 
 ![Responsive designs](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Responsive%20designs.png)
 
@@ -20,19 +20,19 @@ To create an attractive, minimalist and responsive website that provides beginne
 
 - To learn more about growing your own food, how to start and care for your patch.
 - Learn about the different types of food to grow during different seasons.
-- Be able to submit their information in order to recieve more information through a newsletter form.
+- Be able to submit their information in order to receive more information through a newsletter form.
 - Return for updated daily 'top tips' for their gardening toolkit.
-- Find clear information outlined in an easy to follow format.
+- Find clear information outlined in an easy-to-follow format.
 
 ### Site Owner Goals
 
-- To provide users with an easy to follow site and user experience.
+- To provide users with an easy-to-follow site and user experience.
 - To portray a positive brand image.
-- To create repeat users through daily 'top tips' and a newsletter sign up.
+- To create repeat users through daily 'top tips' and a newsletter sign-up.
 
 ### Target Audience
 
-- First time (beginner) gardeners looking to grow their first vegetable/fruit patch.
+- First-time (beginner) gardeners looking to grow their first vegetable/fruit patch.
 - Intermediate gardeners looking to broaden their gardening knowledge and try new things.
 - Experienced gardeners looking for inspiration for future harvests.
 
@@ -40,10 +40,10 @@ To create an attractive, minimalist and responsive website that provides beginne
 
 #### First Time User Goals
 
-- As a first time user, I want to easily understand the purpose of the website as soon as I land on it.
-- As a first time user, I want to be able to easily navigate through easy-to-digest and useful content.
-- As a first time user, I want to be able to easily sign up for a newsletter for more information.
-- As a first time user, I want to be able to easily find the website as a source of good knowledge through good SEO scores and semantic-markup.
+- As a first-time user, I want to easily understand the purpose of the website as soon as I land on it.
+- As a first-time user, I want to be able to easily navigate through easy-to-digest and useful content.
+- As a first-time user, I want to be able to easily sign up for a newsletter for more information.
+- As a first-time user, I want to be able to easily find the website as a source of good knowledge through good SEO scores and semantic markup.
 
 #### Returning User Goals
 
@@ -52,7 +52,7 @@ To create an attractive, minimalist and responsive website that provides beginne
 
 #### Frequent User Goals
 
-- As a frequent user, I want to be able to easily access the pages social media channels for more content and inspiration.
+- As a frequent user, I want to be able to easily access social media channels for more content and inspiration.
 - As a frequent user, I want to be able to use the website at my convenience, on the go and on mobile.
 
 ### Site Structure
@@ -62,12 +62,12 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
 - 'Home' page: 
     The homepage is the main landing page for the website, where users will find a straight-to-the-point heading and brief introduction to the site, that aims to provide instant clarity and understanding of the content and what to expect.
 
-    The opening content sections include imagery relevant to gardening, as well as bitesize informative text that will be immediately helpful. The final sections of the page include a 'Today's Top Tip section (updated dialy to provide new tips to all users) along with a video related to the topic, and a button link to the newsletter subscription form to entice users to sign up.
+    The opening content sections include imagery relevant to gardening, as well as bitesize informative text that will be immediately helpful. The final sections of the page include a 'Today's Top Tip' section (updated daily to provide new tips to all users) along with a video related to the topic, and a button link to the newsletter subscription form to entice users to sign up.
 
     All pages have a 'back to top' button to improve UX.
 
 - 'Seasonal Suggestions' page:
-    The second page, navigatable by the navigation bar (or burger menu on mobile), hosts information for users looking for tips on what to grow during different seasons. This information aims to provide users with useable content and knowledge, no matter when they are accessing the site, in order to give them hands on ideas whenever they want them.
+    The second page, navigatable by the navigation bar (or burger menu on mobile), hosts information for users looking for tips on what to grow during different seasons. This information aims to provide users with useable content and knowledge, no matter when they are accessing the site, to give them hands-on ideas whenever they want them.
 
     Mirroring the home page, users can find the 'Today's Top Tip' and subscribe button sections at the bottom of the page.
 
@@ -98,7 +98,7 @@ The colours for this project were generated using coolors, inspired by the Londo
 
 According to the London Image Institute, the colour green symbolises growth, fertility, survival and health - fitting to the subject of gardening as these are all things directly related to plants. The colour brown similarly is associated with resilience and the earth. Both of these colours also have a visual association with grass, soil and vegetables generally, making them a sure fit for this project. 
 
-To ensure there was enough contrast to the website, green (#34482A) was used as the primary background, h1, logo and navbar menu items, with the 'platinum' (#E3E3E3) white as background to the navbar and as a background colour to all elements displayed on top of the main background. Brown (#835937) was used as an accent colour on buttons and the footer for social links and content, to ensure that there was not too much variation throughout the page. 
+To ensure there was enough contrast to the website, green (#34482A) was used as the primary background, h1, logo and navbar menu items, with the 'platinum' (#E3E3E3) white as a background to the navbar and as a background colour to all elements displayed on top of the main background. Brown (#835937) was used as an accent colour on buttons and the footer for social links and content, to ensure that there was not too much variation throughout the page. 
 
 #46583D was added and reserved for any future usage where necessary to have a slightly lighter shade of green.
 
@@ -115,12 +115,14 @@ The font family 'Ubuntu' was downloaded and used from Google Fonts, as it provid
 All images for the website were sourced from [Pexels](https://www.pexels.com/). 
 
 ##### Gallery
-- [Benefits vegatables image](https://www.pexels.com/photo/pile-of-assorted-varieties-of-vegetables-2255935/)
+- [Benefits vegetables image](https://www.pexels.com/photo/pile-of-assorted-varieties-of-vegetables-2255935/)
 - [Beginner tips image](https://www.pexels.com/photo/person-planting-on-the-garden-7728869/)
 - [Seasons winter image](https://www.pexels.com/photo/green-leaves-3006860/)
 - [Seasons spring image]( https://www.pexels.com/photo/shallow-focus-photography-of-bird-414181/)
 - [Seasons summer image](https://www.pexels.com/photo/yellow-wildflowers-against-cloudy-sky-4497731/)
 - [Seasons autumn image](https://www.pexels.com/photo/yellow-fallen-leaves-decaying-on-forest-ground-6184533/)
+
+All image sizes were edited using [Image Resizer](https://imageresizer.com/).
 
 ## Features
 
@@ -151,13 +153,13 @@ Fresh Patch was developed in VS Code and deployed to GitHub pages.
 The steps to deploy are:
 
 - Navigate to the GitHub repository, or click [here](https://github.com/LcodeM/fresh_patch_v2).
-- Go to 'Settings' tab and then to Pages in the left hand side.
+- Go to the 'Settings' tab and then to Pages on the left-hand side.
 - From the Source section, select Branch 'main' from the dropdown menu, and make sure '/(root)' is selected next to it. Then click 'Save'.
 - Once complete, you will see a message at the top of the page, and a link to the deployed site will be published (this may take a moment).
 
 You can find the link to the live version [here](https://lcodem.github.io/fresh_patch_v2/).
 
-In order to create a local copy of this repository, copy and paste (https://github.com/LcodeM/fresh_patch_v2.git) into your IDE workspace, or use "git clone https://github.com/LcodeM/fresh_patch_v2.git" in your terminal.
+To create a local copy of this repository, copy and paste (https://github.com/LcodeM/fresh_patch_v2.git) into your IDE workspace, or use "git clone https://github.com/LcodeM/fresh_patch_v2.git" in your terminal.
 
 ## Testing
 
