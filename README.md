@@ -6,6 +6,10 @@ Fresh Patch is a website about growing your own food, and fundamentally aimed at
 
 Users of this website will be able to gather the basic information needed to begin preparing, and growing your own vegatables.
 
+## Index
+
+- [User Experience]([link](doc:linking-to-pages#user-experience))
+
 ## User Experience
 
 ### Project Goal
@@ -68,7 +72,10 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
     Mirroring the home page, users can find the 'Today's Top Tip' and subscribe button sections at the bottom of the page.
 
 - 'Subscribe' page:
-    As the name suggests, the subscribe page is an easy-to-complete form style submission section for users who are interested in staying up to date with more content and tips from the 'Fresh Patch' community. 
+    As the name suggests, the subscribe page is an easy-to-complete form style submission section for users who are interested in staying up to date with more content and tips from the 'Fresh Patch' community.
+
+- Response page: 
+    The response page is designed to only be accessible once the form submission is complete - meaning there is no navigation within the site to this page without completing the form successfully. However, those aware of it's existence can simply alter the url and add "reponse.html" to access it. 
 
 ### Wireframes
 
@@ -115,15 +122,7 @@ The steps to deploy are:
 
 You can find the link to the live version [here](https://lcodem.github.io/fresh_patch_v2/).
 
-The site was developed in GitPod and deployed to GitHub pages. The steps to deploy are as follows:
-
-Navigate to the Github repository. For this project, this is rocrill/Crilly-s-B-B.
-Navigate to the Settings tab, then to Pages.
-From the Source secton drop-down menu, select the Master Branch ( or Branch: Master and Root folder). Save.
-Once the master branch has been selected, you will see the message: 'Your site is published' and a link to the deployed site will be provided.
-The live link can be found here - https://rocrill.github.io/Crilly-s-B-B/
-
-
+In order to create a local copy of this repository, copy and paste (https://github.com/LcodeM/fresh_patch_v2.git) into your IDE workspace, or use "git clone https://github.com/LcodeM/fresh_patch_v2.git" in your terminal.
 
 ## Testing
 
