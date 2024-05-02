@@ -94,7 +94,7 @@ Disclaimer: Please be aware that all links open in the same window, make sure to
 
 ![Colour scheme](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Fresh%20Patch%20colour%20palette.png)
 
-The colours for this project were generated using coolors, inspired by the London Image Institute (see Credits and Technologies sections of this file).
+The colour scheme for this project was generated using [Coolors](https://coolors.co/), inspired by the London Image Institute (see Credits and Technologies sections of this file).
 
 According to the London Image Institute, the colour green symbolises growth, fertility, survival and health - fitting to the subject of gardening as these are all things directly related to plants. The colour brown similarly is associated with resilience and the earth. Both of these colours also have a visual association with grass, soil and vegetables generally, making them a sure fit for this project. 
 
@@ -129,6 +129,10 @@ All image sizes were edited using [Image Resizer](https://imageresizer.com/).
 ### Existing Features
 
 #### Navigation
+
+The 'navbar' is located at the very top of every single page, and contains information for the users including the name of the page and logo, a navigation menu of all accessible pages including; Home, Seasonal Suggestions, and Join. Each of which has a hover feature on laptop screens for user experience, as well as an 'active' feature, underlining the current page the user is on.
+
+
 
 #### Home Page
 
