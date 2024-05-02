@@ -8,7 +8,7 @@ Users of this website will be able to gather the basic information needed to beg
 
 ## Index
 
-- [User Experience]([link](doc:linking-to-pages#user-experience))
+- [User Experience]([link](doc:README.md#user-experience))
 
 ## User Experience
 
