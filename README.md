@@ -92,6 +92,10 @@ Disclaimer: Please be aware that all links open in the same window, make sure to
 
 #### Colour Scheme
 
+![Colour scheme](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Fresh%20Patch%20colour%20palette.png)
+
+The colours for this project were generated using coolors.
+
 #### Typogrophy / Fonts
 
 #### Imagery
