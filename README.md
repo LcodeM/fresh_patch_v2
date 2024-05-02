@@ -102,14 +102,25 @@ To ensure there was enough contrast to the website, green (#34482A) was used as 
 
 #46583D was added and reserved for any future usage where necessary to have a slightly lighter shade of green.
 
+Black was used as the primary body font colour to provide necessary contrast against the white section backgrounds.
 
 #### Typogrophy / Fonts
 
 The font family 'Ubuntu' was downloaded and used from Google Fonts, as it provides an easy-on-the-eye font that also draws some attention to the logo with its irregular curvature. This font was used for all text across the website.
 
-![font family]()
+![font family](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Font%20Family%20Ubuntu.png) 
 
 #### Imagery
+
+All images for the website were sourced from [Pexels](https://www.pexels.com/). 
+
+##### Gallery
+- [Benefits vegatables image](https://www.pexels.com/photo/pile-of-assorted-varieties-of-vegetables-2255935/)
+- [Beginner tips image](https://www.pexels.com/photo/person-planting-on-the-garden-7728869/)
+- [Seasons winter image](https://www.pexels.com/photo/green-leaves-3006860/)
+- [Seasons spring image]( https://www.pexels.com/photo/shallow-focus-photography-of-bird-414181/)
+- [Seasons summer image](https://www.pexels.com/photo/yellow-wildflowers-against-cloudy-sky-4497731/)
+- [Seasons autumn image](https://www.pexels.com/photo/yellow-fallen-leaves-decaying-on-forest-ground-6184533/)
 
 ## Features
 
