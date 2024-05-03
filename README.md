@@ -198,7 +198,8 @@ The response page is designed to give users who have successfully filled in the 
 
 ### Future Features to be Implemented
 
-
+Some future features that would be a good addition to the site would be a new page, title 'Ask Us', where users can submit their questions about gardening to the Fresh Patch team, who in turn would be able to respond individually via email.
+    - Further additions to this could be the application of a 'testimonial' style section with 
 
 ### Languages
 
