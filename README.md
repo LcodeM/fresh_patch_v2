@@ -249,14 +249,14 @@ The list of technologies used for completion of the site are as follows:
     - [CSS border support](https://www.w3schools.com/css/css_border.asp)
     - [Button support](https://www.w3schools.com/css/css_border.asp)
     - [Aspect ratio support for video (and original code source)](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
-    [ 
-    <!-- #video-container {
+    
+    #video-container {
     position: relative;
     overflow: hidden;
     width: 100%;
     padding-top: 56.25%; /*aspect ratio of 16:9 for YT videos (9 / 16 = 0.5625 * 100)*/
 
-<!-- #frost-video {
+    #frost-video {
     position: absolute;
     top: 0;
     bottom: 0;
@@ -264,7 +264,7 @@ The list of technologies used for completion of the site are as follows:
     right: 0;
     width: 100%;
     height: 100%;
-}  --> ]
+}  
 - [Stack Overflow](https://stackoverflow.com/) - used as a tool for support with multiple issues.
     - [Anchor support for 'top-button'](https://stackoverflow.com/questions/68627683/scroll-up-button-without-javascript)
     - [Aligning form-items](https://stackoverflow.com/questions/12114966/how-to-right-align-form-input-boxes)
