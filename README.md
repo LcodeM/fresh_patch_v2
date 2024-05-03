@@ -138,15 +138,15 @@ The navigation bar is:
 - Inline with all other design elements and consistent with the branding.
 
 Mobile:
-![Mobile]()
+![Mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar.png)
     Active
-    ![Mobile Active]()
+    ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar%20Active.png)
 
 Tablet:
-![Tablet]()
+![Tablet](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Tablet.png)
 
 Laptop/Desktop:
-![Laptop]()
+![Laptop](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Laptop.png)
 
 #### Home Page
 
