@@ -137,16 +137,21 @@ The navigation bar is:
 - Responsive to the layout of the page based on device, reducing the menu items down into a 'burger menu' for mobile, as to not take up too much space or not be visible.
 - Inline with all other design elements and consistent with the branding.
 
-- ![Mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar.png)
+- Mobile ![Mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar.png)
 
-- ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar%20Active.png)
+- Mobile Active ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar%20Active.png)
 
-- ![Tablet](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Tablet.png)
+- Tablet ![Tablet](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Tablet.png)
 
-- ![Laptop](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Laptop.png)
+- Laptop ![Laptop](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Laptop.png)
 
 #### Home Page
 
+- Mobile ![Mobile]()
+
+- Tablet ![Tablet]()
+
+- Laptop ![Laptop]()
 
 #### Seasonal Suggestions Page
 
