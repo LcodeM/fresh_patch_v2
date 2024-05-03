@@ -36,13 +36,43 @@ Response page also responds well, again, with increase in display size adjusting
 
 #### Home page
 
+Initial errors reported:
 
+![index validation errors](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/html%20index%20validation%20errors.png)
+
+Fixes:
+
+1: Removed second id from h1 (on all pages). Changed anchor tag from "top" to "logo" to target h1 still with 'top button'.
+
+2: 
+
+3: 
 
 #### Seasonal Suggestions page
 
+Initial errors reported:
+
+![seasonal suggestions validation errors](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/html%20seasonal-suggestions%20validation%20errors.png)
+
+Fixes:
+
+2: 
+
+3: 
+
 #### Subscribe Page
 
+Initial errors reported:
+
+None, page passed HTML validation.
+
+![]
+
 #### Response Page
+
+Initial errors reported:
+
+None, page passed HTML validation.
 
 ### CSS
 
