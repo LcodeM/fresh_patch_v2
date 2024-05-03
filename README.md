@@ -278,6 +278,8 @@ The list of technologies used for completion of the site are as follows:
 - [Readme.com](https://docs.readme.com/main/docs/linking-to-pages#anchor-links) - used for support for linking to pages in a readme.md file (and original code source)
     - [ <!--![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png) --> ]
 - [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) extension - used for creating full-page screenshots of pages for readme.md file.
+- [AmIResponsive](https://ui.dev/amiresponsive) - used for checking site responsiveness across different device sizes.
+- [WebDev](https://pagespeed.web.dev/) - used for testing page performance and accessibility across different device sizes.
 
 ## Deployment
 
