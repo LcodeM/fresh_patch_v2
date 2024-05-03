@@ -192,11 +192,13 @@ Required fields responses:
 
 #### Response Page
 
-
+The response page is designed to give users who have successfully filled in the subscribe form a confirmation message that they have been added to the mailing list, and some information on checking their mail for further confirmation. Additionally, the anchor button is designed to take users who may have navigated directly to the subscribe form directly back to the information on the homepage for further exploration of the site, or for those who simply want to return to the main page for any additional information. 
 
 ![Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/response-full-screencapture.png)
 
 ### Future Features to be Implemented
+
+
 
 ### Languages
 
