@@ -130,7 +130,12 @@ All image sizes were edited using [Image Resizer](https://imageresizer.com/).
 
 #### Navigation
 
-The 'navbar' is located at the very top of every single page, and contains information for the users including the name of the page and logo, a navigation menu of all accessible pages including; Home, Seasonal Suggestions, and Join. Each of which has a hover feature on laptop screens for user experience, as well as an 'active' feature, underlining the current page the user is on.
+The 'navbar' is located at the very top of every single page, and contains information for the users including the name of the page and logo (which also navigates back to the Home page from all other pages for usability), a navigation menu of all accessible pages including; Home, Seasonal Suggestions, and Join. Each of which has a hover feature on laptop screens for user experience, as well as an 'active' feature, underlining the current page the user is on.
+
+The navigation bar is:
+- Clear and easy to see, with contrast against the main background and consistent in it's placement across all pages and screen sizes.
+- Responsive to the layout of the page based on device, reducing the menu items down into a 'burger menu' for mobile, as to not take up too much space or not be visible.
+- Inline with all other design elements and consistent with the branding.
 
 
 
