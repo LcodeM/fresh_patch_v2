@@ -44,9 +44,13 @@ Fixes:
 
 1: Removed second id from h1 (on all pages). Changed anchor tag from "top" to "logo" to target h1 still with 'top button'.
 
-2: 
+2: Removed controls command from iframe element.
 
-3: 
+3: Removed muted command from iframe element and added '&mute=1' to video source.
+
+After re-validating code, page passed.
+
+![HTML validation pass]()
 
 #### Seasonal Suggestions page
 
@@ -56,9 +60,13 @@ Initial errors reported:
 
 Fixes:
 
-2: 
+2: Removed controls command from iframe element.
 
-3: 
+3: Removed muted command from iframe element and added '&mute=1' to video source.
+
+After re-validating code, page passed.
+
+![HTML validation pass]()
 
 #### Subscribe Page
 
