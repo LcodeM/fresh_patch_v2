@@ -314,11 +314,3 @@ I would like to credit, and thank the following for their contributions:
 - Kristyna (Code Institute) - my Cohort Facilitator at CI for her guidance with issues related to git log history and export.
 
 - Code Institute LMS - the learning platform which has the learning materials for HTML and CSS, used as a refresher and guide for site features and functionality.
-
-### Content 
-
-### Media
-
-### Tools & Techonologies
-
-## Acknowledgements
