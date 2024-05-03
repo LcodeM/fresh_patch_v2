@@ -275,7 +275,7 @@ The list of technologies used for completion of the site are as follows:
 - [Adamthebig](https://gist.github.com/adamthebig/9d2cf1281797c3f9f958) - used for support with exporting git-log (see TESTING.md for related issue) and original code for exporting gitlog to csv file.
     - Original Code:git log --pretty=format:'"%h","%an","%aD","%s",' --shortstat --no-merges | paste - - - > log.csv 
 - [Readme.com](https://docs.readme.com/main/docs/linking-to-pages#anchor-links) - used for support for linking to pages in a readme.md file (and original code source)
-    - Origingal Code:![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
+    - Origingal Code:![ezcv logo](https: //raw. githubusercontent.com/Descent098/ezcv/master/.github/logo.png) ** Note: Spaces added to stop from formatting to image in README.md **
 - [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) extension - used for creating full-page screenshots of pages for readme.md file.
 - [AmIResponsive](https://ui.dev/amiresponsive) - used for checking site responsiveness across different device sizes.
 - [WebDev](https://pagespeed.web.dev/) - used for testing page performance and accessibility across different device sizes.
