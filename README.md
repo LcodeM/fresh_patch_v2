@@ -147,11 +147,7 @@ The navigation bar is:
 
 #### Home Page
 
-- Mobile ![Mobile]()
-
-- Tablet ![Tablet]()
-
-- Laptop ![Laptop]()
+- Homepage ![Home]()
 
 #### Seasonal Suggestions Page
 
