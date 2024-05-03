@@ -46,7 +46,6 @@ li {
 }
 
 /* Header */
-
 header {
     background-color: #E3E3E3;
     padding: 0 1rem;
@@ -81,7 +80,6 @@ header a {
 }
 
 /* Menu styles with menu-toggle */
-
 nav {
     position: absolute;
     background-color: #e3e3e3;
@@ -208,7 +206,6 @@ button a {
 }
 
 /* Index */
-
 #main-carrot {
     display: flex;
     font-size: 150%;
@@ -220,13 +217,11 @@ button a {
 }
 
 /* Seasonal Suggestions page */
-
 .seasons li {
     margin-left: 2rem;
 }
 
 /* Subscribe page */
-
 #newsletter {
     display: flex;
     justify-content: center;
@@ -258,7 +253,6 @@ button a {
 }
 
 /* Response page */
-
 #response {
     display: flex;
     justify-content: center;
@@ -288,7 +282,6 @@ button a {
 
 
 /* Footer */
-
 footer {
     margin-top: auto;
     background-color: #E3E3E3;
@@ -313,9 +306,7 @@ footer h5 {
 }
 
 /* Media Queries */
-
 /* Media query: smartphones 375px & larger (375px +) */
-
 @media screen and (min-width: 375px) {
 
     .form-entries input {
@@ -325,7 +316,6 @@ footer h5 {
 }
 
 /* Media query: tablets and larger (768px +)  */
-
 @media screen and (min-width: 768px) {
     /* Header */
     nav {
@@ -368,7 +358,6 @@ footer h5 {
     }
 
     /* Index page */ 
-
     .introduction {
         margin: 0 1rem;
     }
@@ -396,7 +385,6 @@ footer h5 {
     }
 
     /* Seasonal Suggestions page */
-
     .seasons .image-container {
         margin: 2rem;
     }
@@ -419,7 +407,6 @@ footer h5 {
     }
     
     /* Subscribe page */
-
     #newsletter {
         margin-top: 3rem;
     }
@@ -433,7 +420,6 @@ footer h5 {
 }
 
 /* Media query: small laptops and larger (992px +) Hover effect */
-
 @media screen and (min-width: 992px) {
     /* Header */
     #menu a:hover {
