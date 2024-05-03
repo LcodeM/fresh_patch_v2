@@ -181,6 +181,14 @@ The subscribe page contains a form wich includes required fields for 'level of e
 
 Required fields responses:
 
+- First name field
+![first name required](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/first-name-required.png)
+
+- Last name field
+![last name required](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/last-name-required.png)
+
+- Email field
+![email field](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/email-required.png)
 
 #### Response Page
 
