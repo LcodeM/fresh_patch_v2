@@ -225,15 +225,20 @@ The list of technologies used for completion of the site are as follows:
 
 ### Frameworks, Programmes and Libraries
 
-- [Balsamiq]() - used for designing the wireframes for the website.
-- [VSCode]() - used to set up workspaces and main tool for writing/editing of code.
-- [Github]() - used as repository host.
-- [Pexels]() - used to source all images used on the site.
-- [Fontawesome]() - used to source icon for logo.
-- [Favicon]() - used to source icon for browser tab.
-- [Coolors]() - used to generate and source a colour scheme for the site.
-- [Google Fonts]() - used to source a font family for the website content.
-- [Youtube]() - used to source video for daily top tips section.
+- [Balsamiq](https://balsamiq.com/wireframes/desktop/#) - used for designing the wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) - used to set up workspaces and main tool for writing/editing of code.
+- [Github](https://github.com/) - used as repository host.
+- [Pexels](https://www.pexels.com/) - used to source all images used on the site.
+- [Fontawesome](https://fontawesome.com/) - used to source icon for logo and menu on mobile.
+    - [Carrot icon](https://fontawesome.com/icons/carrot?f=classic&s=solid)
+    - [Bars icon](https://fontawesome.com/icons/bars?f=classic&s=solid)
+- [Favicon](https://favicon.io/) - used to source icon for browser tab.
+    - [Carrot icon](https://favicon.io/emoji-favicons/carrot/)
+- [Coolors](https://coolors.co/) - used to generate and source a colour scheme for the site.
+    - [Colour palette](https://coolors.co/palette/34482a-46583d-835937-e3e3e3)
+- [Google Fonts](https://fonts.google.com/) - used to source a font family for the website content.
+    - [Ubuntu](https://fonts.google.com/specimen/Ubuntu?query=ubuntu)
+- [Youtube](https://www.youtube.com/watch?v=EW01jeZGlQE&ab_channel=TheRipeTomatoFarms) - used to source video for daily top tips section.
 - [Gardeners World](https://www.gardenersworld.com/plants/starting-a-new-vegetable-patch/) - used to source useful information on gardening for beginners.
 - [Miraclegro](https://miraclegro.com/en-us/gardening-101/10-top-gardening-tips-for-beginners.html) - used to source the 'Daily Top Tip'.
 - [London Image Institute](https://londonimageinstitute.com/green-color-psychology/#:~:text=Optimism%20%E2%80%93%20The%20color%20green%20evokes,of%20someone%20who%20is%20optimistic.) - used to justify selection of colours in colour scheme.
@@ -274,7 +279,6 @@ The list of technologies used for completion of the site are as follows:
     - [ <!--![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png) --> ]
 - [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) extension - used for creating full-page screenshots of pages for readme.md file.
 
-
 ## Deployment
 
 ### Deploying to Github Pages
@@ -295,6 +299,14 @@ To create a local copy of this repository, copy and paste (https://github.com/Lc
 ## Testing
 
 ## Credits
+
+I would like to credit, and thank the following for their contributions:
+
+- Elliot Mayhew - my brother, for his support with the ideation of the sites content, as well as all original information about gardening on the page, and feedback on site pages after deployment.
+
+- Juliia Konovalova - my Code Institute Mentor, for her support with initial introduction to the course project, structuring my work, advice and technologies to use, regular scheduled meetings and help with bug fixes - including head detachment issue (see TESTING.md).
+
+- Lorenz B. and Ioan Z. - my course class mates, for their support with bug fixes and daily check ins to see how I'm getting on and work through challenges together as a sound-board.
 
 ### Content 
 
