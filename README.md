@@ -225,35 +225,53 @@ The list of technologies used for completion of the site are as follows:
 
 ### Frameworks, Programmes and Libraries
 
-- Balsamiq - used for designing the wireframes for the website.
-- VSCode - used to set up workspaces and main tool for writing/editing of code.
-- Github - used as repository host.
-- Pexels - used to source all images used on the site.
-- Fontawesome - used to source icon for logo.
-- Favicon - used to source icon for browser tab.
-- Coolors - used to generate and source a colour scheme for the site.
-- Google Fonts - used to source a font family for the website content.
-- Youtube - used to source video for daily top tips section.
-- Gardeners World - used to source useful information on gardening for beginners.
-- Miraclegro - used to source the 'Daily Top Tip'.
-- London Image Institute - used to justify selection of colours in colour scheme.
-- Stack Overflow and Digital Ocean - used for image resizing research and support.
-- Image Resizer - used as a tool for resizing all images.
-- W3schools - used as a tool for support with multiple issues and bugs.
-    - Button support
-    - Aspect ratio support for video (and original code source)
-    [original code here]
-- Stack Overflow - used as a tool for support with multiple issues.
-    - Anchor support for 'top-button'
-    - Aligning form-items
-    - Adding images to readme.md files
-- Crilly's Air BnB - used for README.md content structure inspiration
-    - Repo
-    - Readme
-- Adamthebig - used for support with exporting git-log (see TESTING.md for related issue) and original code for exporting gitlog to csv file.
-    - [ Original code here ]
-- Readme.com - used for support for linking to pages in a readme.md file (and original code source)
-    - [ Original code here ]
+- [Balsamiq]() - used for designing the wireframes for the website.
+- [VSCode]() - used to set up workspaces and main tool for writing/editing of code.
+- [Github]() - used as repository host.
+- [Pexels]() - used to source all images used on the site.
+- [Fontawesome]() - used to source icon for logo.
+- [Favicon]() - used to source icon for browser tab.
+- [Coolors]() - used to generate and source a colour scheme for the site.
+- [Google Fonts]() - used to source a font family for the website content.
+- [Youtube]() - used to source video for daily top tips section.
+- [Gardeners World](https://www.gardenersworld.com/plants/starting-a-new-vegetable-patch/) - used to source useful information on gardening for beginners.
+- [Miraclegro](https://miraclegro.com/en-us/gardening-101/10-top-gardening-tips-for-beginners.html) - used to source the 'Daily Top Tip'.
+- [London Image Institute](https://londonimageinstitute.com/green-color-psychology/#:~:text=Optimism%20%E2%80%93%20The%20color%20green%20evokes,of%20someone%20who%20is%20optimistic.) - used to justify selection of colours in colour scheme.
+- [Stack Overflow](https://stackoverflow.com/questions/15167545/how-to-crop-a-rectangular-image-into-a-square-with-css) and [Digital Ocean](https://www.digitalocean.com/community/tutorials/css-cropping-images-object-fit) - used for image resizing research and support.
+- [Image Resizer](https://imageresizer.com/) - used as a tool for resizing all images.
+- [Hubspot](https://blog.hubspot.com/website/css-rem#:~:text=By%20default%2C%20most%20browsers%20use,default%20font%20size%20will%20be.) - used as a tool for understanding the use of em/rem sizing.
+- [W3schools](https://www.w3schools.com/) - used as a tool for support with multiple issues and bugs.
+    - [CSS border support](https://www.w3schools.com/css/css_border.asp)
+    - [Button support](https://www.w3schools.com/css/css_border.asp)
+    - [Aspect ratio support for video (and original code source)](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
+    [ 
+    <!-- #video-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 56.25%; /*aspect ratio of 16:9 for YT videos (9 / 16 = 0.5625 * 100)*/
+
+<!-- #frost-video {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}  --> ]
+- [Stack Overflow](https://stackoverflow.com/) - used as a tool for support with multiple issues.
+    - [Anchor support for 'top-button'](https://stackoverflow.com/questions/68627683/scroll-up-button-without-javascript)
+    - [Aligning form-items](https://stackoverflow.com/questions/12114966/how-to-right-align-form-input-boxes)
+    - [Adding images to readme.md files](https://stackoverflow.com/questions/68777239/how-to-display-an-image-in-readme-file-on-github)
+- [Crilly's Air BnB]() - used for README.md content structure inspiration
+    - [Repo](https://github.com/rocrill/Crilly-s-B-B/tree/main)
+    - [Readme](https://github.com/rocrill/Crilly-s-B-B/blob/main/README.md)
+- [Adamthebig](https://gist.github.com/adamthebig/9d2cf1281797c3f9f958) - used for support with exporting git-log (see TESTING.md for related issue) and original code for exporting gitlog to csv file.
+    - [ <!-- git log --pretty=format:'"%h","%an","%aD","%s",' --shortstat --no-merges | paste - - - > log.csv -->
+ ]
+- [Readme.com](https://docs.readme.com/main/docs/linking-to-pages#anchor-links) - used for support for linking to pages in a readme.md file (and original code source)
+    - [ <!--![ezcv logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png) --> ]
 - [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) extension - used for creating full-page screenshots of pages for readme.md file.
 
 
