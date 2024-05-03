@@ -147,7 +147,7 @@ The navigation bar is:
 
 #### Home Page
 
-- Homepage ![Home]()
+- Homepage ![Home](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/homepage-full-screencapture.png)
 
 #### Seasonal Suggestions Page
 
