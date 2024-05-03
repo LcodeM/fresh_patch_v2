@@ -147,13 +147,41 @@ The navigation bar is:
 
 #### Home Page
 
-- Homepage ![Home](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/homepage-full-screencapture.png)
+The homepage aims to immediately encapture the idea and feeling of gardening, from the colour scheme, title and logo, to the first content sections with information about the benefits, and tips, of growing your own vegetables.
+
+'Hero/introduction' section immediately states the purpose of the website.
+
+'Benefits of growing your own food' section immediately provides first time users with encouragement for going on their journey.
+
+'Top tips for beginners' section offers immediate information the users are looking for to get them started. 
+
+'Daily top tips' section offers a consistent source of 'additional' information relevant to their journey which aims to entice the user to come back to the page every day. There is also a video related directly to the content in the section for additional context. The video has controls enabled for the user, and volume is muted upon starting the video with the option to watch full screen. The video is also respinsive across screen sizes for mobile, tablet laptop/desktop.
+
+Call to action section offers a direct link to subcription form on 'Subscribe' page in order to capture user information and retain users in database, growing the community. 
+
+Footer offers users the opportunity to find out more about the pages social media channels and follow the journey or recieve more information about gardening.
+
+'Top' button has a fixed position and z-index of 99 in order to keep it on top of all other elements. This feature is used to enable users to quickly acces the top of the page and navigation bar/menu quickly when scrolling through content. 
+
+![Home](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/homepage-full-screencapture.png)
 
 #### Seasonal Suggestions Page
 
+All "seasons" sections (Winter, Spring, Summer, Autumn) offer informative tips to users that they can action throughout the year, as well as key information they can use as a 'reminder' when they enter a new season, or have new ideas for what they can grow. 
+
+'Daily top tips' section is included again in this page for any return users that may have bookmarked the specific page, or quickly navigated to it from the homapage, to ensure that they are updated every day with new daily tips. 
+
+![Seasonal suggestions](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/seasonal-suggestions-full-screencapture.png)
+
 #### Subscribe Page
 
+
+
+![Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/subscribe-full-screencapture.png)
+
 #### Response Page
+
+![Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/response-full-screencapture.png)
 
 ### Future Features to be Implemented
 
