@@ -300,6 +300,8 @@ To create a local copy of this repository, copy and paste (https://github.com/Lc
 
 ## Testing
 
+See [TESTING.md](https://github.com/LcodeM/fresh_patch_v2/blob/main/TESTING.md)
+
 ## Credits
 
 I would like to credit, and thank the following for their contributions:
@@ -309,6 +311,10 @@ I would like to credit, and thank the following for their contributions:
 - Juliia Konovalova - my Code Institute Mentor, for her support with initial introduction to the course project, structuring my work, advice and technologies to use, regular scheduled meetings and help with bug fixes - including head detachment issue (see TESTING.md).
 
 - Lorenz B. and Ioan Z. - my course class mates, for their support with bug fixes and daily check ins to see how I'm getting on and work through challenges together as a sound-board.
+
+- Kristyna (Code Institute) - my Cohort Facilitator at CI for her guidance with issues related to git log history and export.
+
+- Code Institute LMS - the learning platform which has the learning materials for HTML and CSS, used as a refresher and guide for site features and functionality.
 
 ### Content 
 
