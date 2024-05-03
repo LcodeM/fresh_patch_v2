@@ -137,7 +137,16 @@ The navigation bar is:
 - Responsive to the layout of the page based on device, reducing the menu items down into a 'burger menu' for mobile, as to not take up too much space or not be visible.
 - Inline with all other design elements and consistent with the branding.
 
+Mobile:
+![Mobile]()
+    Active
+    ![Mobile Active]()
 
+Tablet:
+![Tablet]()
+
+Laptop/Desktop:
+![Laptop]()
 
 #### Home Page
 
