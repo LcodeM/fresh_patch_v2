@@ -130,7 +130,7 @@ All image sizes were edited using [Image Resizer](https://imageresizer.com/).
 
 #### Navigation
 
-The 'navbar' is located at the very top of every single page, and contains information for the users including the name of the page and logo (which also navigates back to the Home page from all other pages for usability), a navigation menu of all accessible pages including; Home, Seasonal Suggestions, and Join. Each of which has a hover feature on laptop screens for user experience, as well as an 'active' feature, underlining the current page the user is on.
+The 'navbar' is located at the very top of every single page, and contains information for the users including the name of the page and logo (which also navigates back to the Home page from all other pages for usability), a navigation menu of all accessible pages including; Home, Seasonal Suggestions, and Join (the subscribe.html page is labelled 'Join' in the nav menu in order to make it sound more appealing to the user, as it gives the impression that they are joining a community, not simply offering their information to a database). Each of which has a hover feature on laptop screens for user experience, as well as an 'active' feature, underlining the current page the user is on.
 
 The navigation bar is:
 - Clear and easy to see, with contrast against the main background and consistent in it's placement across all pages and screen sizes.
@@ -175,11 +175,16 @@ All "seasons" sections (Winter, Spring, Summer, Autumn) offer informative tips t
 
 #### Subscribe Page
 
-
+The subscribe page contains a form wich includes required fields for 'level of experience' radio buttons and 'name and email' text inputs. There is also a submit type button which, upon successful completion of the form fiels, opens the 'response.html' page.
 
 ![Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/subscribe-full-screencapture.png)
 
+Required fields responses:
+
+
 #### Response Page
+
+
 
 ![Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/response-full-screencapture.png)
 
