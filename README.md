@@ -199,7 +199,9 @@ The response page is designed to give users who have successfully filled in the 
 ### Future Features to be Implemented
 
 Some future features that would be a good addition to the site would be a new page, title 'Ask Us', where users can submit their questions about gardening to the Fresh Patch team, who in turn would be able to respond individually via email.
-    - Further additions to this could be the application of a 'testimonial' style section with 
+    - Further additions to this could be the application of a 'testimonial' style section with user questions that have been answered by the team.
+        - This feature should include the option for users to select whether or not they want their questions to feature on the page, as well as optional anonymity, in accordance with GDPR.
+![Ask us wireframe](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/ask-us.html.png)
 
 ### Languages
 
