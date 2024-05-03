@@ -196,16 +196,66 @@ The response page is designed to give users who have successfully filled in the 
 
 ![Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/response-full-screencapture.png)
 
-### Future Features to be Implemented
+### Future Features and Improvements to be Implemented
 
-Some future features that would be a good addition to the site would be a new page, title 'Ask Us', where users can submit their questions about gardening to the Fresh Patch team, who in turn would be able to respond individually via email.
+Some future features that would be a good addition to the site would be:
+
+-  A new page, title 'Ask Us', where users can submit their questions about gardening to the Fresh Patch team, who in turn would be able to respond individually via email.
     - Further additions to this could be the application of a 'testimonial' style section with user questions that have been answered by the team.
         - This feature should include the option for users to select whether or not they want their questions to feature on the page, as well as optional anonymity, in accordance with GDPR.
 ![Ask us wireframe](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/ask-us.html.png)
 
+- 404 page for any broken links, including custom branding.
+
+- Improve page performance scores by reducing 3rd party impact from videos/images used (properly sizing images and using tools to improve impact).
+
+- Add a 'chat' extension for asking questions with auto-generated answers to FAQs.
+
+- Create a custom designed logo for the website for brand awareness.
+
+- Build on section content or create the option to 'read more' in linked articles etc.
+
 ### Languages
 
+The list of technologies used for completion of the site are as follows:
+
+- HTML5 - used to write structure and foundation of code for website.
+- CSS - used as styling language for all content and page structure on site.
+- Git - used to track changes in code and version control.
+
 ### Frameworks, Programmes and Libraries
+
+- Balsamiq - used for designing the wireframes for the website.
+- VSCode - used to set up workspaces and main tool for writing/editing of code.
+- Github - used as repository host.
+- Pexels - used to source all images used on the site.
+- Fontawesome - used to source icon for logo.
+- Favicon - used to source icon for browser tab.
+- Coolors - used to generate and source a colour scheme for the site.
+- Google Fonts - used to source a font family for the website content.
+- Youtube - used to source video for daily top tips section.
+- Gardeners World - used to source useful information on gardening for beginners.
+- Miraclegro - used to source the 'Daily Top Tip'.
+- London Image Institute - used to justify selection of colours in colour scheme.
+- Stack Overflow and Digital Ocean - used for image resizing research and support.
+- Image Resizer - used as a tool for resizing all images.
+- W3schools - used as a tool for support with multiple issues and bugs.
+    - Button support
+    - Aspect ratio support for video (and original code source)
+    [original code here]
+- Stack Overflow - used as a tool for support with multiple issues.
+    - Anchor support for 'top-button'
+    - Aligning form-items
+    - Adding images to readme.md files
+- Crilly's Air BnB - used for README.md content structure inspiration
+    - Repo
+    - Readme
+- Adamthebig - used for support with exporting git-log (see TESTING.md for related issue) and original code for exporting gitlog to csv file.
+    - [ Original code here ]
+- Readme.com - used for support for linking to pages in a readme.md file (and original code source)
+    - [ Original code here ]
+- [GoFullPage](https://chromewebstore.google.com/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) extension - used for creating full-page screenshots of pages for readme.md file.
+
 
 ## Deployment
 
