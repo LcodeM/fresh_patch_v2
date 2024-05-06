@@ -96,13 +96,48 @@ None, css passed validation.
 
 #### Home page
 
+index.html (Home) page is not performing well upon testing with lighthouse, as it contains an embedded Youtube video which is causing performance issues. However, I feel that the instructional video is paramount to the user as it provides good information and content to the 'Today's Top Tip' section. In future developments, one fix for this would be to use 'lazy loading' to the iframe source code, where videos are necessary.
 
+Another fix for performance in future developments would be to use different image file types to optimize them for web use, instead of PNG. 
+
+Mobile:
+![index performance mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/index_lighthouse_score_mobile.png)
+
+Desktop:
+![index performance desktop](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/index_lighthouse_score_desktop.png)
 
 #### Seasonal Suggestions page
 
+seasonal-suggestions.html (Seasonal Suggestions) page is not performing well upon testing with lighthouse, as it contains an embedded Youtube video which is causing performance issues. However, I feel that the instructional video is paramount to the user as it provides good information and content to the 'Today's Top Tip' section. In future developments, one fix for this would be to use 'lazy loading' to the iframe source code, where videos are necessary.
+
+Another fix for performance in future developments would be to use different image file types to optimize them for web use, instead of PNG.
+
+The same performance issues are being 
+Mobile:
+![seasonal suggestions performance mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/seasonal_suggestions_lighthouse_score_mobile.png)
+
+Desktop:
+![seasonal suggestions performance desktop](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/seasonal_suggestions_lighthouse_score_desktop.png)
+
 #### Subscribe Page
 
+There are little to no performance issues with subscribe.html (Join) page.
+
+Mobile:
+![subscribe performance mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/subscribe_lighthouse_score_mobile.png)
+
+Desktop:
+![subscribe performance desktop](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/subscribe_lighthouse_score_desktop.png)
+
 #### Response Page
+
+There are little to no performance issues with response.html (Response) page.
+
+Mobile:
+![response performance mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/response_lighthouse_score_mobile.png)
+
+Desktop:
+![response performance desktop](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/response_lighthouse_score_desktop.png)
 
 ## Bugs
 
