@@ -192,3 +192,6 @@ alt-text not displaying properly because of border-radius on circle images. Trie
 
 ### Repository v1
 
+On Wednesday May 1st 2024, after completing all of the main content and CSS styling for the website, I encountered a 'head detached' error in my terminal. After seeking advice from my mentor, troubleshooting and trying to find the cause of the problem, it was determined that it would be easier and faster to create a new repository for my site, and simply migrate the code for all pages and CSS. 
+
+After doing this, I also exported my git commits from version 1 of the website in order to maintain a full git log of the sites creation, which can be found [here]()
