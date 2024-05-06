@@ -1,6 +1,6 @@
 # Fresh Patch
 
-![Logo](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Fresh%20Patch%20logo.png)
+![Logo](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/fresh_patch_logo.png)
 
 ## Introduction
 
@@ -8,7 +8,7 @@ Fresh Patch is a website about growing your own food and is aimed at supporting 
 
 Users of this website will be able to gather the basic information needed to begin preparing and growing their own vegetables.
 
-![Responsive designs](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Responsive%20designs.png)
+![Responsive designs](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/responsive_designs.png)
 
 ## User Experience
 
@@ -81,18 +81,18 @@ Fresh Patch has 4 pages in total, 3 that are navigatable by the user through but
 
 Disclaimer: Please be aware that all links open in the same window, make sure to manually open in a new tab.
 
-- [All devices and pages](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Wireframes%20by%20size.pdf)
-- [Home page](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Home%20page.pdf)
-- [Seasonal Suggestions](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Seasonal%20Suggestions.pdf)
-- [Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Subscribe.pdf)
-- [Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Response.pdf)
-- [Mobile Menu dropdown](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Mobile%20dropdown%20menu.pdf)
+- [All devices and pages](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/wireframes_by_size.pdf)
+- [Home page](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/home_page.pdf)
+- [Seasonal Suggestions](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/seasonal_suggestions.pdf)
+- [Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/subscribe.pdf)
+- [Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/response.pdf)
+- [Mobile Menu dropdown](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/mobile_dropdown_menu.pdf)
 
 ### Design
 
 #### Colour Scheme
 
-![Colour scheme](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Fresh%20Patch%20colour%20palette.png)
+![Colour scheme](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/fresh_patch_colour_palette.png)
 
 The colour scheme for this project was generated using [Coolors](https://coolors.co/), inspired by the London Image Institute (see Credits and Technologies sections of this file).
 
@@ -108,7 +108,7 @@ Black was used as the primary body font colour to provide necessary contrast aga
 
 The font family 'Ubuntu' was downloaded and used from Google Fonts, as it provides an easy-on-the-eye font that also draws some attention to the logo with its irregular curvature. This font was used for all text across the website.
 
-![font family](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/Font%20Family%20Ubuntu.png) 
+![font family](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/font_family_ubuntu.png) 
 
 #### Imagery
 
@@ -137,13 +137,13 @@ The navigation bar is:
 - Responsive to the layout of the page based on device, reducing the menu items down into a 'burger menu' for mobile, as to not take up too much space or not be visible.
 - Inline with all other design elements and consistent with the branding.
 
-- Mobile ![Mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar.png)
+- Mobile ![Mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/mobile_navbar.png)
 
-- Mobile Active ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Mobile%20Navbar%20Active.png)
+- Mobile Active ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/mobile_navbar_active.pngg)
 
-- Tablet ![Tablet](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Tablet.png)
+- Tablet ![Tablet](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/tablet.png)
 
-- Laptop ![Laptop](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/Laptop.png)
+- Laptop ![Laptop](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/laptop.png)
 
 #### Home Page
 
@@ -250,7 +250,7 @@ The list of technologies used for completion of the site are as follows:
     - [Button support](https://www.w3schools.com/css/css_border.asp)
     - [Aspect ratio support for video (and original code source)](https://www.w3schools.com/howto/howto_css_responsive_iframes.asp)
     
-    #video-container {
+    '''#video-container {
     position: relative;
     overflow: hidden;
     width: 100%;
@@ -264,7 +264,7 @@ The list of technologies used for completion of the site are as follows:
     right: 0;
     width: 100%;
     height: 100%;
-}  
+}'''
 - [Stack Overflow](https://stackoverflow.com/) - used as a tool for support with multiple issues.
     - [Anchor support for 'top-button'](https://stackoverflow.com/questions/68627683/scroll-up-button-without-javascript)
     - [Aligning form-items](https://stackoverflow.com/questions/12114966/how-to-right-align-form-input-boxes)
