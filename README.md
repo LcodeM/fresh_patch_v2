@@ -163,7 +163,7 @@ Footer offers users the opportunity to find out more about the pages social medi
 
 'Top' button has a fixed position and z-index of 99 in order to keep it on top of all other elements. This feature is used to enable users to quickly acces the top of the page and navigation bar/menu quickly when scrolling through content. 
 
-![Home](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/homepage-full-screencapture.png)
+![Home](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/homepage_full_screencapture.png)
 
 #### Seasonal Suggestions Page
 
@@ -171,24 +171,24 @@ All "seasons" sections (Winter, Spring, Summer, Autumn) offer informative tips t
 
 'Daily top tips' section is included again in this page for any return users that may have bookmarked the specific page, or quickly navigated to it from the homapage, to ensure that they are updated every day with new daily tips. 
 
-![Seasonal suggestions](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/seasonal-suggestions-full-screencapture.png)
+![Seasonal suggestions](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/seasonal-suggestions-full-screencapture.png)
 
 #### Subscribe Page
 
 The subscribe page contains a form wich includes required fields for 'level of experience' radio buttons and 'name and email' text inputs. There is also a submit type button which, upon successful completion of the form fiels, opens the 'response.html' page.
 
-![Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/subscribe-full-screencapture.png)
+![Subscribe](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/subscribe-full-screencapture.png)
 
 Required fields responses:
 
 - First name field
-![first name required](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/first-name-required.png)
+![first name required](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/first-name-required.png)
 
 - Last name field
-![last name required](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/last-name-required.png)
+![last name required](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/last-name-required.png)
 
 - Email field
-![email field](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/email-required.png)
+![email field](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/email-required.png)
 
 #### Response Page
 
