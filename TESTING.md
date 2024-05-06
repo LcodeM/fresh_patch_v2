@@ -30,7 +30,7 @@ Response page also responds well, again, with increase in display size adjusting
 
 Below is a list of all manual testing conducted, with pass/fail values and comments (where necessary).
 
-![Manual testing]()
+| Page Feature | Action | Expected Result | Tested |
 
 ## Validator Testing
 
