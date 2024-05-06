@@ -50,7 +50,7 @@ Fixes:
 
 After re-validating code, page passed.
 
-![HTML validation pass]()
+![HTML validation pass](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/validation_pass.png)
 
 #### Seasonal Suggestions page
 
@@ -66,7 +66,7 @@ Fixes:
 
 After re-validating code, page passed.
 
-![HTML validation pass]()
+![HTML validation pass](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/validation_pass.png)
 
 #### Subscribe Page
 
@@ -74,7 +74,7 @@ Initial errors reported:
 
 None, page passed HTML validation.
 
-![]
+![HTML validation pass](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/validation_pass.png)
 
 #### Response Page
 
@@ -82,7 +82,11 @@ Initial errors reported:
 
 None, page passed HTML validation.
 
+![HTML validation pass](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/validation_pass.png)
+
 ### CSS
+
+
 
 ### Lighthouse Report / Performance
 
