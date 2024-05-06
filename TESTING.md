@@ -183,10 +183,10 @@ Desktop:
 
 alt-text not displaying properly because of border-radius on circle images. Tried multiple troubleshooting solutions as per below links, but no success.
 
-![psuedo classes](https://www.dev-diaries.com/social-posts/style-broken-images/) (for pseudo classes)
-![fixing broken images](https://javascript.plainenglish.io/how-to-style-broken-images-using-css-b238c907c8af) (fixing broken images)
-![onerror](https://www.w3schools.com/tags/ev_onerror.asp#:~:text=Definition%20and%20Usage,a%20document%20or%20an%20image) and ![onerror](https://www.w3schools.com/jsref/event_onerror.asp) (onerror attribute)
-![pseudo class list](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) (List of pseudo-classes)
+[psuedo classes](https://www.dev-diaries.com/social-posts/style-broken-images/) (for pseudo classes)
+[fixing broken images](https://javascript.plainenglish.io/how-to-style-broken-images-using-css-b238c907c8af) (fixing broken images)
+[onerror](https://www.w3schools.com/tags/ev_onerror.asp#:~:text=Definition%20and%20Usage,a%20document%20or%20an%20image) and [onerror](https://www.w3schools.com/jsref/event_onerror.asp) (onerror attribute)
+[pseudo class list](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) (List of pseudo-classes)
 
 ## Mistakes
 
@@ -194,4 +194,8 @@ alt-text not displaying properly because of border-radius on circle images. Trie
 
 On Wednesday May 1st 2024, after completing all of the main content and CSS styling for the website, I encountered a 'head detached' error in my terminal. After seeking advice from my mentor, troubleshooting and trying to find the cause of the problem, it was determined that it would be easier and faster to create a new repository for my site, and simply migrate the code for all pages and CSS. 
 
-After doing this, I also exported my git commits from version 1 of the website in order to maintain a full git log of the sites creation, which can be found [here]()
+After doing this, I also exported my git commits from version 1 of the website in order to maintain a full git log of the sites creation, which can be found [here](https://github.com/LcodeM/fresh_patch_v2/blob/main/V1LOG.md)
+
+Note that all commits in the previous log from version 1 were also done in past tense and began with a lowercase letter. Upon recreation of my website in version 2, I was reminded to log git commits in present tense beginning with an uppercase letter, which I have tried my best to adhere to going forward.
+
+Though this mistake was coslty in regard to time and energy spent working on recreating the site, it was a good lesson learned in regard to what can happen if not working correctly within the terminal. I am grateful that this happened in an earlier project in my coding career, than with a larger project where it could have been more damaging. 
