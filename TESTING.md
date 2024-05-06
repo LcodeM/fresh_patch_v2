@@ -86,11 +86,17 @@ None, page passed HTML validation.
 
 ### CSS
 
+Initial errors reported:
 
+None, css passed validation.
+
+![CSS validation pass](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/css_validator_pass.png)
 
 ### Lighthouse Report / Performance
 
 #### Home page
+
+
 
 #### Seasonal Suggestions page
 
