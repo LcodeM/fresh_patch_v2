@@ -139,7 +139,7 @@ The navigation bar is:
 
 - Mobile ![Mobile](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/mobile_navbar.png)
 
-- Mobile Active ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/mobile_navbar_active.pngg)
+- Mobile Active ![Mobile Active](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/mobile_navbar_active.png)
 
 - Tablet ![Tablet](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/tablet.png)
 
