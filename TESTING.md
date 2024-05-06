@@ -4,7 +4,7 @@
 
 All pages have been tested for compatability in different browsers, including Google Chrome (default browser), Safari and Mozilla Firefox.
 
-![Broswer Compatibility](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/browser_compatability.png)
+![Broswer Compatibility](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/broswer_compatability.png)
 
 ## Responsiveness
 
