@@ -194,7 +194,7 @@ Required fields responses:
 
 The response page is designed to give users who have successfully filled in the subscribe form a confirmation message that they have been added to the mailing list, and some information on checking their mail for further confirmation. Additionally, the anchor button is designed to take users who may have navigated directly to the subscribe form directly back to the information on the homepage for further exploration of the site, or for those who simply want to return to the main page for any additional information. 
 
-![Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/response-full-screencapture.png)
+![Response](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/response-full-screencapture.png)
 
 ### Future Features and Improvements to be Implemented
 
@@ -203,7 +203,7 @@ Some future features that would be a good addition to the site would be:
 -  A new page, title 'Ask Us', where users can submit their questions about gardening to the Fresh Patch team, who in turn would be able to respond individually via email.
     - Further additions to this could be the application of a 'testimonial' style section with user questions that have been answered by the team.
         - This feature should include the option for users to select whether or not they want their questions to feature on the page, as well as optional anonymity, in accordance with GDPR.
-![Ask us wireframe](https://github.com/LcodeM/fresh_patch_v2/blob/main/assets/images/ask-us.html.png)
+![Ask us wireframe](https://github.com/LcodeM/fresh_patch_v2/blob/main/documentation/ask-us.html.png)
 
 - 404 page for any broken links, including custom branding.
 
