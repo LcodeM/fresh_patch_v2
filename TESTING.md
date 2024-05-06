@@ -60,9 +60,9 @@ Initial errors reported:
 
 Fixes:
 
-2: Removed controls command from iframe element.
+1: Removed controls command from iframe element.
 
-3: Removed muted command from iframe element and added '&mute=1' to video source.
+2: Removed muted command from iframe element and added '&mute=1' to video source.
 
 After re-validating code, page passed.
 
