@@ -28,7 +28,9 @@ Response page also responds well, again, with increase in display size adjusting
 
 ## Manual Testing
 
+Below is a list of all manual testing conducted, with pass/fail values and comments (where necessary).
 
+![Manual testing]()
 
 ## Validator Testing
 
