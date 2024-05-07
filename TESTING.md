@@ -205,6 +205,8 @@ Desktop:
 
 18: html validator not accepting id=“logo top” in h1 - fixed by removing second “top” id (as not allowed 2 ids in an element) and replaced the anchor tag with “logo”.
 
+19: After finalising documentation all testing, the 'Top' button on index.html and seasonal-suggestions.html pages stopped working, even though all html code still passed validation. Fixed bug by replacing the href="logo" with href="#top". 
+
 ### Unsolved/Ongoing Bugs
 
 alt-text not displaying properly because of border-radius on circle images. Tried multiple troubleshooting solutions as per below links, but no success.
