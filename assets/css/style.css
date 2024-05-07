@@ -155,7 +155,7 @@ button a {
     width: 90%;
     padding: 1em;
 }
-
+/* Original code source taken from w3schools (link in README.md) */
 #video-container {
     position: relative;
     overflow: hidden;
